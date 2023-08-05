@@ -1,7 +1,5 @@
 # Photo Replacement Project
 
-![Project Example](screenshot.png)
-
 ## About the Project
 
 The "Photo Replacement Project" is a web-based design experiment created using HTML and CSS. The purpose is to showcase a visual design by dividing an image into smaller pieces and replacing those pieces with differently colored boxes using a grid layout.
